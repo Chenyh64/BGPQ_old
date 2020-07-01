@@ -15,6 +15,8 @@ All 12 testcases passed
 Success
 ```
 
+When you test the code, please use -O3 and remove both -G and -g since it will cause a huge degrading of the performance. 
+
 ## heap
 There are four versions of heap
 - buitdd: Bottom-Up Insertion Top-Down Deletion with partial buffer
